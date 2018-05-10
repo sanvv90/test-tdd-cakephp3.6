@@ -1,0 +1,8 @@
+msgid "articles.title"
+msgstr "Title"
+
+msgid "articles.author"
+msgstr "Author"
+
+msgid "articles.content"
+msgstr "Content"
